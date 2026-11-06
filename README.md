@@ -32,6 +32,7 @@ Procedure
 •	Load voltage 
 ________________________________________
 Observation
+
 Without Filter 
 <img width="1920" height="977" alt="Screenshot 2026-11-02 085307" src="https://github.com/user-attachments/assets/35c9da70-7295-4950-bd2d-9f17dba2cace" />
 With Filter
